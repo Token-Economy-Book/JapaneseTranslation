@@ -6,8 +6,7 @@ Publisher: Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
-Copy edit: Paisley Prophet<br>
-Cover design: Carmen Fuchs<br>
+Japanese Translation: Naoki Akazava et al.
 
 # Versions
 Japanese Translation: https://github.com/Naokiakazawa/TokenEconomyBook_JP/wiki (work in progress)<br>
